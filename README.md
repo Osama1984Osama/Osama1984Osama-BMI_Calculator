@@ -1,4 +1,4 @@
-# BMI_Calculator
+# BMI_Calculator by JavaScript
 Test your Self
 Click the Link to get Start
 
